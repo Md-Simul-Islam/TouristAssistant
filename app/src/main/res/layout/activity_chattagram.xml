@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#2273ff"
+    tools:context=".ChattagramActivity">
+
+
+    <Button
+        android:id="@+id/saintmartinId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Saint Martin"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/cheradipId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chera Dip"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/inanibeachId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Inani Beach"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/labonibeachId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Laboni Beach"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/sitakundaecoparkId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sitakunda Eco-Park"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/mohamayalakeId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mohamaya Lake"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/sandwipId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sandwip"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+</LinearLayout>
+
+
+

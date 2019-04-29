@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2273ff"
+    android:orientation="vertical"
+    tools:context=".ComillaActivity">
+
+
+    <Button
+        android:id="@+id/comillaButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+
+        android:textStyle="bold"
+        android:text="Cumilla University"
+
+        android:textSize="30sp"
+
+        />
+
+    <Button
+        android:id="@+id/bardButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+
+        android:textStyle="bold"
+        android:text="Bard"
+
+        android:textSize="30sp"
+
+        />
+
+    <Button
+        android:id="@+id/moynamotiButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+
+        android:textStyle="bold"
+        android:text="Mainamati"
+
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/lalmoyButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+
+        android:textStyle="bold"
+        android:text="LalmoyPahar"
+
+        android:textSize="30sp" />
+</LinearLayout>

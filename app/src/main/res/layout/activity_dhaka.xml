@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#2273ff"
+    tools:context=".DhakaActivity">
+
+
+    <Button
+        android:id="@+id/hatirjheelId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hatirjheel"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/starmosqueId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Star Mosque"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/ahsanmanzilId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ahsan Manzil"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/lalbaghkellaId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lalbagh Kella"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/nandanparkId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nandan park"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+</LinearLayout>
+
+
+

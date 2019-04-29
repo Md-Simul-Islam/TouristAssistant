@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#2273ff"
+    tools:context=".KhulnaActivity">
+
+
+    <Button
+        android:id="@+id/sundarbanId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sundarban"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/sixtydomemosqueId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sixty Dome Mosque"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/lalonshamazarId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lalonsha Mazar"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+
+
+
+</LinearLayout>
+
+
+

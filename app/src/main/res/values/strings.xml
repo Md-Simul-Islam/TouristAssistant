@@ -1,0 +1,454 @@
+<resources>
+    <string name="app_name">Tourist_Assistant</string>
+
+
+        <string-array name="Division_name">
+
+            <item>Rajshahi Division</item>
+            <item>Cumilla</item>
+            <item>Dhaka Division</item>
+            <item>Chattogram Division</item>
+            <item>Rangpur Division</item>
+            <item>Sylhet Division</item>
+            <item>Khulna Division</item>
+            <item>Brishal Division</item>
+            <item>Mymensingh Division</item>
+
+
+        </string-array>
+        <string name="RajshahiUniversity_text">
+        Description:\n\n
+       The University of Rajshahi, also known as Rajshahi University or RU  is a public university which is the second largest university in Bangladesh, in Rajshahi, a city in northwestern Bangladesh. It was established in 1953, the second university to be established in what was then East Pakistan. The university is ranked third on the Bangladesh University Ranking 2017.
+
+     The universitys 59 departments are organised into ten faculties. Rajshahi University is in a 753 acres (3 km2) campus in Motihar, 3 kilometres (2 mi) from the Rajshahi city centre. With 25,000 students and close to 1000 academic staff, it is one of the largest universities in Bangladesh. In addition to hosting programs in engineering, arts, law, sciences, agriculture, social sciences, business studies and medical sciences, the university houses institutes of higher studies.
+      \n\nHow to go:\n\n
+        From Dhaka:\nBy bus such as Hanif,Shamoli,Vai Vai Transport,and other local bus.\n
+        By Train:\n\n
+        Comlapur railway station or Biman Bonddar station to Rajshahi railway station.Trickets is 365 taka.
+    </string>
+        <string name="ruet_text">
+
+        Rajshahi University of Engineering Technology is the 2nd oldest prestigious public Engineering University of Bangladesh offers quality education and research in the field of engineering and technology. The university established in 1964 as Rajshahi Engineering College with three Engineering departments namely Mechanical Engineering, Electrical  Electronic Engineering and Civil Engineering. The institute started with Bachelor degree program and limited number of students (122) enrolled in three departments each year. Later it was converted to Bangladesh Institute of Technology (BIT), Rajshahi in 1986 to enhance the technical education. The institute is upgraded as Rajshahi University of Engineering  Technology (RUET) in September, 2003 to enhance the technical education and research. The university is financed by the Government through the university Grants Commission of Bangladesh. The university is an autonomous statutory organization of the Government of Bangladesh functioning within the Rajshahi University of Engineering Technology Act 2003.
+       \n\nHow to go:\n\n
+        From Dhaka:\nBy bus such as Hanif,Shamoli,Vai Vai Transport,and other local bus.\n
+        By Train:\n\n
+        Comlapur railway station or Biman Bonddar station to Rajshahi railway station.Trickets is 365 taka.
+
+    </string>
+        <string name="safinapark_text">
+
+        Safina park is beatiful park. Rajshahi  is a district in Northern Bangladesh. It is a part of the Rajshahi Division. Rajshahi was previously known as ammpura. The name was changed from ammpura to Rajshahi in 1875. Rajshahi was established as a district in 18 century.
+
+        Safina park is located at Park Rd, Rajshahi - 5700. Besides this nature attraction, there is one more nature attraction listed in Gaibandha. There also eight attractions listed in this district in other categories. You will find the exact location of Gaibandha Pouro Park on the map above.
+
+    </string>
+        <string name="padmarpar_text">
+
+        The Padma is a major river in Bangladesh and India (downstream of Giria). It is the main distributary of the Ganges, flowing generally southeast for 120 kilometres (75 mi) to its confluence with the Meghna River near the Bay of Bengal. The city of Rajshahi is situated on the banks of the river. However, over 256 square miles of land, as large as Chicago, has been lost due to erosion of Padma since 1966.\n
+    Geographic effects\n\n
+    Padma River and boats (1860)
+    Eighteenth-century geographer James Rennell referred to a former course of the Ganges north of its present channel, as follows:
+
+    Appearances favour very strongly that the Ganges had its former bed in the tract now occupied by the lakes and morasses between Natore and Jaffiergunge, striking out of the present course by Bauleah to a junction of Burrrampooter or Megna near Fringybazar, where accumulation of two such mighty streams probably scooped out the present amazing bed of the Megna.
+    </string>
+        <string name="amcottor_text">
+
+        Rajshahi district was a part of the Pundra region of ancient Bengal. The capital of Vijay Sen, the king who led military operations in Sri Lanka and Southeast Asia was located 9 miles (14 km) to the west of Rajshahi town. In medieval times, the region came to be known as "Rampur Boalia". The origin of the present name of "Rajshahi" is debated among scholars. Most say that it takes its name from Hindu Kings and zamindars (or "Rajas") as Raj and the persianised Shahi; both of which mean "royal" or "kingdom". The administrative district was established in 1772 and the municipal corporation in 1876. Rajshahi was dominated by various Maharajas, Rajas and Zamindars.
+    </string>
+        <string name="comilla_text">
+
+
+        The University of Cumilla  also known as Cumilla University, is a public university located at Kotbari, Cumilla, Bangladesh. The university was constructed on 50 acres (200,000 m2) of land at Lalmai Bihar, Moynamoti. Comilla University is affiliated by University Grants Commission, Bangladesh.
+
+ Professor Dr. Golam Mowlah is the founder vice-chancellor of Comilla University who served till July 30, 2008. Dr. Zulfikar Ali, a professor of mathematics, was given the charge as acting Vice Chancellor. The next vice-chancellor of Comilla University, Dr. A.K.M. Zehadul Karim a renowned professor of Rajshahi University served till 7 October 2009. Professor Dr. Amir Hossain Khan, a philanthropist Professor of Physics department of Jahangirnagar University, was appointed as Vice Chancellor on 22 November 2009. After successful completion of his 4 years period Professor Dr. Md. Ali Ashraf, renowned economist of Chittagong University, took charge on 3th December, 2013. The chancellor of the university is Honorable President of The People Republic of Bangladesh Mr. Md. Abdul Hamid.
+
+    </string>
+        <string name="bard_text">
+
+        Bangladesh Academy for Rural Development (BARD)  is an autonomous institution that strives for research and training of local people as well as practitioners on rural development. The academy is known for implementing the Comilla Model in the 1960s that has been internationally recognised as a model project for rural development in the developing countries
+
+    </string>
+
+        <string name="moinamoti_text">
+
+        Mainamati  is an isolated low, dimpled range of hills, dotted with more than 50 ancient Buddhist settlements dating to between the 8th and 12th century CE. It extends through the centre of the district of Comilla in Bangladesh. Mainamati is located almost 8 miles from the town of Comilla. It is the home of one of the most important Buddhist archaeological sites in the region. Comilla Cantonment is located nearby and houses a beautiful colonial era cemetery.[1] Mainamati is named for the Chandra queen of the same name, mother of Govindachandra. Mainamati is only 114 km. from Dhaka city and is just a days trip by road on way to Chittagong.It is situated nearby Dhaka Chittagong highway.Also there is a Buddhist temple besides it.
+    </string>
+
+        <string name="lalmoy_text">
+    Lalmoy phar is a beautiful historical place in Bangladesh.The Comilla distric it contain.This pahar is red soil among the forest.The Comilla University near by the Lalmoy pahar.
+    </string>
+
+        <string name="hatirjheel_text">
+        Hatirjheel is a lakefront in Dhaka, Bangladesh that has been transformed into a transportation medium for minimizing traffic congestion.
+
+       The area was constructed under Bangladesh Army and the Special Works Organization . It is now a popular recreational spot for residents of Dhaka and is currently undergoing renovation.\n\nHistory\n
+       Legend has it that the elephants of Dhaka Pilkhana used to take baths in these wetlands hence the name Hatirjheel. Architect Iqbal Habib, who heads the consultant firm of the Hatirjheel Begunbari development project, said that the Bhawal Raja used to keep his tamed elephants at Pilkhana. He said that the elephants were taken to the wetlands through the Elephant Road and Hatirpool.
+
+    </string>
+        <string name="ahaasnmanzil_text">
+
+        Ahsan Manzil was the official residential palace and seat of the Nawab of Dhaka. The building is situated at Kumartoli along the banks of the Buriganga River in Dhaka, Bangladesh. Construction was started in 1859 and was completed in 1872. It was constructed in the Indo-Saracenic Revival architecture. It has been designated as a national museum.
+       \n\nHistory\n
+       In Mughal era, there was a garden house of Sheikh Enayet Ullah, the landlord of Jamalpur Porgona , in this place. Sheikh Enayet Ullah was a very charming person. He acquired a very big area in Kumortuli (Kumartuli) and included it in his garden house. Here he built a beautiful palace and named it "Rongmohol" (Rangmahal). He used to enjoy here keeping beautiful girls collected from the country and abroad, dressing them with gorgeous dresses and expensive ornaments. There is a saying that, the foujdar of Dhaka (representative of mughal emperor) was attracted to one of the beautiful girls. He invited Sheikh Enayet Ullah to a party one night and killed him in a conspiracy when he was returning home. That girl also committed suicide in anger and sorrow. There was a grave of Sheikh Enayet Ullah in the north-east corner of the palace yard which was ruined in the beginning of the 20th century.
+    </string>
+        <string name="lalbaghkella_text">
+        Lalbagh Fort (Fort Aurangabad) is an incomplete Mughal Palace fortress at Dhaka on the Buriganga River in the southwestern part of the old city of Dhaka. Prince Muhammad Azam, son of Emperor Aurangzeb, began the construction while he was serving as the Viceroy of Bengal. Built in 17th Century dated 1678. Main attractions are - Tomb of Pari Bibi, Lalbagh mosque, Audience hall and Hammam Khana (bathing place) of Nawab Shaista Khan.
+    </string>
+        <string name="nandanpark_text">
+
+    Nandan park is one of the most attractive amusement park at Savar suburb near Dhaka city in Bangladesh. Nandan Park is now country largest and only family entertainment center, which is attracting largest crowd every day.Most of the rides and amusements are for the first time in Bangladesh like Cable Car, Water Coaster, Tilt-A-Whirl, Ice-Land, Musical Dancing Fountain, Wave pool and so on. This park is specially designed for whole some family day out amusement and the rides have been carefully chosen so that everybody of the family can take the ride without being scared. Visitors, for the first time, have been experiencing snowfall (Ice-Land) in Dhaka
+    </string>
+        <string name="starmosque_text">
+
+        This superb structure, popularly called Tara Masjid (Tara Mosque), is still standing tall with her dazzling beauty after more than three centuries. This mosque got its name from innumerable star patterns (Tara in Bengali) made of brightly coloured tiles covering the entire polished marble walls of the mosque. There is also a large star shaped fountain and water reservoir for pre-prayer ritual ablution of the Muslims.
+
+        The mosque was built by a Mughal landlord named Mirza Gulam Pir. Unlike other Mughal architectures, there is no inscription found in the mosque mentioning its founding year. However, according to the trustees of the mosque, it was built in the year 1711, when Dhaka was under Mughal rule.  At that time it was a tiny 3 domed mosque made with marble imported from Rajmahal of India. The length of the building was 10.06 metres and the width was 4.04 metres. The walls were not decorated at that time. Still, a part of the original plainly plastered wall can be found behind the mosque.
+    </string>
+        <string name="saintmartin_text">
+        Saint Martin Island  is a small island (area only 8 km2) in the northeastern part of the Bay of Bengal, about 9 km south of the tip of the Coxs Bazar-Teknaf peninsula, and forming the southernmost part of Bangladesh. There is a small adjoining island that is separated at high tide, called Chera Dwip. It is about 8 kilometres (5 miles) west of the northwest coast of Myanmar, at the mouth of the Naf River.\n\nFrom 1989 to 2004, non-residential Bangladeshis and foreigners were the only people permitted on the island; however, this has changed and now residential Bangladeshis are allowed. St. Martin Island has become a tourist spot, and five shipping liners run daily trips to the island. Tourists can book their trip either from Chittagong or from Coxs Bazar. The surrounding coral reef has an extension named Chera Dwip. A small bush is there, which is the only green part. People do not live on this part, so it is advisable for the tourists to go there early and come back by afternoon.
+
+        A number of efforts have beeb proposed to preserve the several endangered species of turtles that nest on the island, as well as the corals, some of which are found only on Narikel Jinjira. Pieces of the coral reef are being removed to be sold to tourists.[5] Nesting turtles are sometimes taken for food, and their hatchlings are often distracted by the twinkling lights along the beach. Fish, a few recently discovered, are being overfished. Every year the fishermen must venture further out to sea to get their catch. Most of them use motorless boats.
+    </string>
+        <string name="cheradip_text">
+        Although chera dip is a part of saint martin island but it is divided by a tide. It is also a very nice place to visit. Local small launch called as troller can be the vehicle to visit this place. You can walk also if you want but it will take about two hour to three hour to arrive there. Most people takes troller as they want to walk for too long. In that Island you will find the Corals - living and dead all over the Island. As this is a very small place and people do not leave there, it is better for the tourists to visit there early in the day and come back to saint martin during the day for their safety.\n\nThere are 2 general ways to travel St Martin Island to Chera Dip.\n\n
+
+       Take a walk (Beach) – Best for travelers who do not miss a single bit of fun  adventure.
+       Rent a boat – For lazy travelers or in shortage of time. Interested in sight visit not in adventure.
+
+       I will discuss the walkway in details. There’s actually nothing to describe about traveling by boat. They will arrive directly to Chera Dip  come back with some photos or videos. But, In walkway, there are something everybody should care about.
+    </string>
+        <string name="inanibeach_text">
+        Inani Beach (also Enani Beach) is an 18-kilometre-long  sea beach in Ukhia Upazila of Coxs Bazar District, Bangladesh. It has a lot of coral stones, which are very sharp. These coral stones look black and green, and they are found in summer or rainy seasons.
+
+        Pathorkhani is located in Jaliapalong, Inani Beach. Almost all of the visitors gather around it and love to take snapshot by sitting on it.\n\nHow to go:\n\n
+        From Coxs Bazar you can reach Inani beach by rickshaw or CNG auto rickshaw.
+
+        To get here, take a bus to Teknaf and get off at Court Bazar (30 km), a tiny village 2 km before Ukhia. From there, you can rickshaw or tempo west to the beach, 10 km away. If you’re headed for the guesthouse, ask the rickshaw driver to let you off at the tiny village of Sonarpara. From there, walk south until you reach the guesthouse. Alternatively, hire a CNG scooter/jeep from Cox’s Bazar to take you directly to Inani using the scenic beach route.
+
+        One can hire a CNG scooter for 5–6 hours at a cost of 500 tk . A CNG scooter offers you a package inclusive Doria nogor, Himchhori and Inani beach. You can go there and can stay 1hr at every spot. After finishing visiting one will be returned so.
+
+
+    </string>
+        <string name="labonibech_text">
+
+        Laboni Point is the main beach of Coxs Bazar. At here we can easily enjoy the scenic beauty of Bay of Bengal. Its a place for enjoyment, many people come here including the foreigners. The beach is well appreciated during sunsets and sunrise, where people can witness the sea as it changes its colors twice in a day.Visitors can sunbathe, surf, jog, cycle, and swim. It is best for swimming and relaxation.Close to the beach, there are a lot of small shops selling souvenirs, locally made cigars beauty products (sandal wood based), handmade clothes, bed sheets, dresses, shoes and beach accessories to the tourists.
+    </string>
+        <string name="sitakudaecopark_text">
+        A place for tourism
+        Sitakundo upozilla is a source of fascinating beauty. Where on one side has the hill with high elevation and on another side has the estuary of the Bay of Bengal. Between them, there has some little space, where people use to live and do their businesses. The lands of these areas are fertile and full of natural resources. Due to the scarcity of living places, there has no park or any other entertainment places. Because of this reason, there build up an eco-park and a botanical garden which is named Sitakundo Eco-park. It is the largest commercial hub and the first eco-park in Chittagong.\n\nHistory:\n
+        It has a notable historical background, which are the blessings of many saints. Chittagong is known as ‘land of twelve saints [bara Awliar’s desh]. It is known as once a sage named Bhargava created a pond (kunda) for Sita Devi to bath in when her husband Lord Ramchandra visited during his exile in the forests. From then it delivered by the name of Sitakunda. Sitakunda was also ruled by various Buddhist rulers as well as by many Muslim rulers of Bengal in the west. It is a pilgrim for these three main religions of the country.
+
+        \n\nLocation:\n
+        It is located in the foothills of Chandranath hill in Sitakunda. It is about 37 km far away and in the west of Chittagong. It is the first and the biggest eco park and botanical garden in Bangladesh as well as in Asia
+
+    </string>
+        <string name="mohamayalake_text">
+        Mahamaya lake is the 2nd largest lake in Bangladesh. It is very beautiful but an artificial lake. After Rangamati Kaptai lake, this lake is the largest in this county. Kaptai lake is the largest Natural lake located in Rangamati District under Chittagong Division. Mahamaya is too little then kaptai but its the 2nd largest with 11 square kilometer area.  This lake is totally artificial but you will feel the nature from here. Tourist can ride a boat to enjoy the lake like kaptai lake.You will see few waterfalls which is really awesome for tourists. You can take a break near waterfalls. If you  take a bath with waterfall you can do it But it so you must be careful near this waterfall.\n\nHow to go there:\n\n
+      \n By Bus:\n\n
+        From Dhaka: You need to go to Saidabad bus stands for Mirsharai. There are lot of buses for Chittagong. Ac, Non-Ac. You just need to purchase a ticket for Chittagong, You have to leave your bus at Mirsharai Bus Stand. From there, you need to hire a CNG to go to Mohamaya lake.
+
+       \n\nBy Train:\n
+       You can go there via the train. From Dhaka, kamalapur or airport station you will find train for chittagong. You have to leave your train at mirsharai. You can also leave your train at Feni. From feni you need again a bus journey for mirshari. After that you have to hire a cng to reach you at Mahamaya lake.
+
+
+    </string>
+        <string name="sandwip_text">
+
+        Sandwip is an island along the south eastern coast of Bangladesh in the Chittagong District. Also spelled Sandvip, the transliteration of the name would in fact be Shondip. It is part of the sub-district of Sandwip Upazila.\n\nDescription:\nIt is at the estuary of the Meghna River on the Bay of Bengal and separated from the Chittagong coast by Sandwip Channel. It has a population of nearly 350,000. There are fifteen wards, 62 mahallas and 34 villages on Sandwip Island. The island is 50 kilometers long and 5-15 kilometers wide. It is at the north-east side of the Bay of Bengal, near the main port city of Chittagong. It is bounded by Companiganj on the north, Bay of Bengal on the south, Sitakunda and Mirsharai, and Sandwip Channel on the east, Noakhali Sadar.
+    </string>
+
+        <string name="shopnopuri_text">
+
+        Shopnopuri is a great Amusement Park which is situated at Aftabganj of Nababganj in the district of Dinajpur. This a theme park which covers an area of 920 acre. You will need to buy ticket to enter inside the park. Dhaka (Capital of Bangladesh) to Dinajpur by bus will take about 9-11 hours.
+
+        Shopnopuri is one of the most beautiful artificial picnic spot in Bangladesh especially in North Bangle. You can go there either from Hill or from Dinajpur. There you can enjoy here by watching artificial beauty. One can spend night also In Shoponopuri rest house but for that he/ she will have to book in advance. Here lots of picnic parties come every day.
+
+        The entry fee of Shaopnopuri theme park is 20 taka per person. At the gate, two statue of angels are waiting to welcome you. This park is divided into some parts.
+
+        After entering Shopnopuri, you can go to “Fish World”. Its ticket fee is only 5 taka per person. Inside the “Fish World”, you can see artificial water plants, fished and various water animals.
+
+        After visiting fish world, you can go to “Animal Kingdom”. Entry fee 5 taka per person. Here you can see artificial statue of some animals like Amu, Flamingo, Dinosaur, Pegasus etc. This part is great for kids.
+       “Rongdhony Art Gallery” is another beautiful part of Shorpopuri. You can see here, many different kinds of sculptures and paintings. Entry fee 5 taka per person.
+
+       “Moha Maya Indrojal” is another part of Shopnopuri. Here you can enjoy magic. Entry fee 5 taka per person.
+        \n\nHow to go:\n\n
+       One can start his journey for Shopnopuri directly from Dhaka by taking buses for Dinajpur.
+
+       But, if you want to know how to reach Dinajpur from Dhaka.\n\nWhere to Stay:\n\n
+      The accommodation facilities in Dinajpur are developed than before. Some of the places you may consider staying in are listed below for your assistance.
+
+      1. Al Rashid Hotel
+      Contact: 01716 535956, 0531 65658
+
+      2. Hotel Diamond
+     Contact: 64629
+
+     3. Hotel Unique
+     Contact: 01736 335264, 0531 52203
+
+     4. Parjatan Motel
+      Contact: 64718
+    </string>
+
+
+        <string name="vinnojogot_text">
+        LOCATION: \n\n
+      Vinno Jogot is about 360 km away from Dhaka (capital city), a liitle away from Rangpur town along the Rangpur-Dinajpur highway. There is a nice beautiful village named Gangipur- VinnoJogot  is located there. Coming at Paglapir go through the Joldhaka road for about 10 minutes and near Ganjipur follow the arrows to VinnyaJagat for directions.\n\n Why should you visit?\n\n
+      It is the largest picnic spot and tourism center in this area. It is located in Gonjipur under Kholeya union of Gangachara Upazila. After entering the park and cross the iron bridge the world becomes different from it.\nThere are also parks for children, round trip, helicopter fly zone, Nagarodola, Kangaroo moving, Spider Zone, Bumper car, Racing Horse, C-Paradise, Maki Train, Ajab Guha (strange cave), 3D Movie, Ice world, Space Journey, Shapla Chattar, different sculptures and boat journey on a big lake.\n\nHow to go from Dhaka: \n\nDipjol, Hanif, and Agomony are the best transport routes from Dhaka to Rangpur. Apart from this, the other buses are S.R. Paribahan, Shyamoli, ENA, etc. on this route. The buses from Kalyanpur and Gabtoli are available at different times from morning till night. In addition to the road, it is possible to go to Rangpur via rail.
+        \n\nWhere to stay:\n\n If you want to remain in the park, you can get to the resort. Rangpur city is also good for the stay. There are many good quality hotels here. The best hotels include Hotel North View, NGO forum Rangpur, RDRS (Jail Road). Hotel Shah Amanat, Golden Tower Hotel Park, Hotel Tilottama (Thana Road), Hotel Bijay (Jail Road).
+
+    </string>
+
+        <string name="chinimosque_text">
+        Chini Mosque is located in Saidpur city of Nilphamari district in Rangpur Division of Bangladesh. The mosque is also known as Glass Mosque. The construction of the mosque started in 1863 by Haji Bakir Ali Ahmed and was completed within a year as a little prayer house. Lately Wazir Ali Ahmed whos belongs from founders family started the extension and modification work of this mosque. After that in at the middle of 20th century the sons of Late Wazir Ali Ahmed, Mofizuddin Ahmed  Shafiuddin Ahmed (well known as cloth merchants) continue the beautification work of the mosque. At the time the ceramics pieces brought form Kolkata as there was no any ceramic factory in East Pakistan/Bengal (present Bangladesh).
+        \n\nArchitecture and design:\n\nChini Masjid has twenty seven minars of which five are incomplete.
+
+    </string>
+        <string name="tushbahanderjomiderbari_text">
+
+        TushVandar Jamidar bari is situatied at Tushvandar union in Kaligonj upzila. The ancestor of the Jamider Tushvander Murabi Dev Vhattacharga came to Cooch Behar from 24 Pargana din 1634 during the period of the great King Pran Narayan. At that time there was a system of donating land for religious loins. Murari Dev Ghoshal  did not accept the property as he was Brahmans rather he appealed to rent for the property. The rent was finally accepted as rice bran by the queen. According to legend, this place was known as Tush vhandar as a pile of collected husk. The Tushvhandar Jamidary was established by Brahman Murari Dev and ended by the death of Jamidar Girish Mohan Roy Chowdhury after the ruling of 4 hundred years
+    </string>
+        <string name="gaibandhapouropark_text">
+
+        Gaibandha  is a district in Northern Bangladesh. It is a part of the Rangpur Division. Gaibandha subdivision was established in 1875. Gaibandha was previously known as Bhabanigonj. The name was changed from Bhabanigonj to Gaibandha in 1875. Gaibandha was established as a district in 15 February 1984.
+
+        Gaibandha Pouro Park is located at Park Rd, Gaibandha - 5700. Besides this nature attraction, there is one more nature attraction listed in Gaibandha. There also eight attractions listed in this district in other categories. You will find the exact location of Gaibandha Pouro Park on the map above.
+    </string>
+        <string name="shahimosque_text">
+        Description:\n\n
+
+        Baparipara Shahi Mosque is located at 1 km distance from Rajarhat Upazila of Kurigram district. The Mosque length is 32 feet and width is 10 feet. It is surrounded by 3 ft high wall. There are 3 door, 1 decorated gate, 2 tower and 4 high tower situated on the four corner of the Mosque. On the center of the roof, there are three big domes. There are no inscription found about the Mosque. From its architectural sign, you can guess Baparipara Shahi Mosque is around 200 year old.
+    \n\nHow to go:\n\nDhaka and Kurigram is linked by road. You can take a bus from Dhaka to reach Kurigram. Some of the bus services have been listed below for your assistance.
+
+    1. Hanif Enterprise
+    Contact: Shymoli: 88-02-9144482, Cell: 01198-220 052
+   Gabtoli: 88-02-8011750, 9003380, Cell: 01190-188 169
+   Kolabaghan: 88-02-8119901
+
+   2. Kurigram Paribahan
+   Contact: 01924-469 437, 01914-856 826
+        \n\nWhere to Stay:\n\n
+     There are few accommodation facilities available. Some of the places you may consider staying in are listed below for your assistance.
+
+     1. Residential Hotel DK
+     Contact: 01712123171
+
+    2. Hotel Sriti
+    Contact: 01719028411
+
+    3. Hotel Mehedi
+    Contact: 01711348910
+
+   4. Hotel Nibedika
+    Contact: 01717058952
+
+
+    </string>
+
+
+        <string name="SUST_text">
+        Description:\n\n
+
+        Shahjalal University of Science and Technology also known as SUST is a state supported, public research university located in Sylhet, Bangladesh. It is the 8th oldest university of the country and the first university to adopt American credit system. SUST is the Flagship University of the Science  Technology University System of Bangladesh.
+
+       The university was founded as the first science technology university of the country by the Government of Bangladesh according to a university act in 1986 to give special importance in science and technology education. Following this, seven more science and technology universities have been established in Bangladesh. SUST is traditionally known for pioneering research and education in the physical sciences and engineering.
+
+       \n\n History:\n\n
+
+       The 1 km; entrance way to SUST campus
+       Shahjalal University of Science and Technology was established in 1986. The campus is located in Kumargaw, approximately six kilometers away from the heart of Sylhet City Centre. The university started its academic programme with three departments: physics, chemistry and economics. The first convocation of SUST was held on 29 April 1998 and the second convocation held on 6 December 2007.
+
+      SUST is the first university in Bangladesh providing whole campus free Wi-fi access for students and staff.The university introduced an integrated honors course for the first time in Bangladesh[2] and it introduced the semester system (American credit system) from the 1996-97 session. According to the masterplan for the university, within a few years Shahjalal University of Science and Technology will be one of the finest institutions of the region.
+
+      \n\n Ranking and reputaion:\n\n
+      In 2016, SUST ranked as the top technological and research university in Bangladesh (610th in the world) by Scopus SCImago institution ranking. In 2015, Webometrics Ranking of World Universities ranked SUST as the top university of Bangladesh. In 2018, the team from SUST became the world champion of NASA Space Apps Challenge among 1,395 local winning teams.
+    </string>
+
+        <string name="teagarden_text">
+
+        Sylhet is not only the source of inspiration that redefined Bengal but supplies the essential tea to Bangladesh and the world. Beyond the tea estates, Orange groves and pineapple and rubber plantations, Sylhet is home to ancient shrines, different ethnic groups and a haven for wildlife.
+        Greater Sylhet the land of two leaves and a bud, the major tea plantation area and the home of the Monipuri, Khasia and Garo tribal people. This is located in the gentle sloping upland in the picturesque valley between the khasia-Jaintia and Tripura hills, amid scenic tea plantation and lush green tropical forest is a prime attraction. Gentle slopes, congenial climate and abundant rainfall made Sylhet one of the largest tea producing area in the world. The Monipuri tribes are famous for their monipuri dance and weaving.
+        Srimongal, on the south of Sylhet is renowned as the tea Capital. Tea gardens are spread over as far as your eyes can view over the slopes and plains like a canvas of green smooth carpet. It can boast of the three largest gardens of the world.
+
+    </string>
+
+        <string name="shahjalal_text">
+        Description:\n\nHazrat Shahjalal Mazar is situated at Sylhet district in Bangladesh. It is famous for the grave of one of the famous Muslim saints in the region. His name was Shah Jalal ad-Din al-Mujarrad al Naqshbandi. He is locally known as Hazrat Shah Jalal. There are about three and sixty graves from different saints in Sylhet at present. That is the reason; Sylhet city is called Blessed land or Pobitro Nogori.
+        \n\nIdentity of Hazrat Shahjalal:\n\nShahajalal was born in Yemen in 1341 AD. He was one of the renowned Sufis in the Indian Subcontinent. He came to the region to sermonize Islam. When he was thirty years old he started this activity. He had many fans at that time. His followers also were sizeable in various parts of the subcontinent to advocate Islam.
+        \n\nVisitors Works:\n\nVisitors will find divided prayer rooms for equally male and female visitors. The site has a royal main gate. The main entry of Hazrat Shahjalal Mazar is called the Dargah Gate. The Mazar is a living place for a lot of pigeons. People who come here always awarded to feed them.
+
+         When visitors enter the Hazrat Shahjalal Mazar, they will find a very primordial mosque on the left-hand side. This mosque is about fourteen hundred years old. The mosque was restructured in the year 1744. At this place, there will discover a graveyard beside the grave of Hazrat Shahjalal. The burial ground surrounds the grave of many of his followers.
+
+         \n\nHow to go:\n\nHazrat Shahjalal Mazar is about two hundred and thirty-three kilometres away from Dhaka City. It will take about five hours to reach this place through highway. This place is about one kilometre away from the Sylhet central town and needed ten to twelve minutes to reach. Visitors also can reach to Sylhet by air. There are lots of hotels and restaurants surrounding areas of Hazrat Shahjalal Mazar.
+    </string>
+        <string name="jaflong_text">
+        Jaflong of Sylhet is called the daughter of nature. This is a lovely land of natural beauty on the foothils of Jointa hill. The decorted stone on the bank of Pian river increases its beauty.
+
+      High hills of India beyond the border, Water fall from the Dauki hill, swinging Dauki Bridge, Crystal water of Pian river, deep forest on high hills, quiet and clam environment will fascinated you. For its unimaginable beauty Jaflong is also called the Beauty spot, Picnic spot, the queen of beauty. So, Jaflong considered as very attractive place for the tourist. If you go to Shylet you can never miss to visit Jaflong.
+
+     \n\nLocation:\n\n Jaflong is situated at Goainghat Upazila in Shylet district. From Sylhet city Jaflong is about 56 km.
+
+      \n\nHow will you go Jaflong:\n\n
+     You can go Jaflong from Sylhet by bus, micro bus, or CNG auto Rickshaw. It would take 1 hour to 1.30 hour. It would take 80 tk. per passenger. If you want to take reserve and for round trip it would take 3000 to 3500tk. for micro bus. For CNG you would need 1000 to 1200tk. You can rent micro bus or CNG from any bus station or auto rickshaw station from Sylhet city to go Jaflong.
+
+    </string>
+        <string name="ratargul_text">
+
+        Description :\n\n
+        Immerse yourself in the wild scenery of Ratargul and Bisnakandi during this 11-hour private group excursion from Sylhet. Visit the Ratargul Swamp Forest, one of the few freshwater swamp forests in the world, as take a boat ride through this unique ecological area. You also visit Bisnakandi, a village situated near a scenic collection of mountains and rivers. Lunch, along with boat rides in Ratargul and Bisnakandi are included.
+        Get picked up from your hotel in Sylhet at 8am by your guide and transfer to Ratargul Swamp Forest. Ratargul is a fresh water swamp area situated near the Goain River. Discover the area’s freshwater swamp forests, or “flooded forests,” which are inundated by the local rivers on a seasonal basis. The forest typically gets submerged under 20 to 30 feet (6 to 9 meters) of water in some parts of the rainy season. The waters are populated by numerous fresh, and the area is also home to a number of snakes, monkeys, lizards, insects  birds. You may even see a vulture or eagle if you are lucky. Later in the day you enjoy lunch at a local restaurant before continuing to Bisnakandi. This village, located in Rustompur Union, is known as a site where multiple layers of the nearby hills converge in the center of a local river. In the rainy season, you also witness dark clouds hugging the mountain. When the tour concludes, you will be dropped off at your hotel in Sreemangal or Sylhet.
+
+    </string>
+
+        <string name="sundarban_text">
+        The Sundarbans is a mangrove area in the delta formed by the confluence of Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans from the Hooghly River in India state of West Bengal to the Baleswar River in Bangladesh. It comprises closed and open mangrove forests, agriculturally used land, mudflats and barren land, and is intersected by multiple tidal streams and channels. Four protected areas in the Sundarbans are enlisted as UNESCO World Heritage Sites, viz Sundarbans National Park, Sundarbans West, Sundarbans South and Sundarbans East Wildlife Sanctuaries. The Sundarbans mangrove forest covers an area of about 10,000 km2 (3,900 sq mi). Of which, forests in Bangladeshs Khulna Division extend over 6,017 km2 (2,323 sq mi) and in West Bengal, they extend over 4,260 km2 (1,640 sq mi) across the South 24 Parganas and North 24 Parganas districts.[4] The most abundant tree species are Sundri (Heritiera fomes) and Gewa (Excoecaria agallocha). The forests provide habitat to 453 faunal wildlife, including 290 bird, 120 fish, 42 mammal, 35 reptile and eight amphibian species.\n\n
+        Animals:\n\nA new study has warned that the Sundarbans famed Royal Bengal Tigers could be gone within 50 years, especially from the Bangladesh part, because of climate change.
+
+        The study titled Combined effects of climate change and sea-level rise project dramatic habitat loss of the globally endangered Bengal tiger in the Bangladesh Sundarbans, carried out by a team of Bangladeshi and Australian scientists, revealed that constant rise in sea levels and climate change could bring a catastrophic situation to the mangroves of Sundarbans-the iconic Bengal tigers last coastal stronghold – and the worlds biggest mangrove forest.
+
+        It has been published in the journal Science of The Total Environment.
+
+        "Fewer than 4,000 Bengal tigers are alive today," said James Cook University Professor Bill Laurance, a co-author of the study. "That a really low number for the worlds biggest cat, which used to be far more abundant but today is mainly confined to small areas of India and Bangladesh," he said.
+    </string>
+
+
+        <string name="sixtygumbujmosque_text">
+         \n\nDescription:\n\n
+        The sixty-dome mosque is situated in the Sundarganjona village, located just 7 kilometers away from the city of Bagerhat in Bangladesh, on the north side of the Khulna-Bagerhat highway, sixty-five buses. There is no inscription on the mosque. So it did not find any exact information about the construction at any time. But there is no doubt about the architecture of the mosque that Khan E Jahan had built. It is believed that he built it in the 15th century. This mosque has been built for many years and with a lot of money. Its stones were brought from Rajmahal. It is one of the three world heritage sites of Bangladesh. The mosque is about 160 feet outside the northern northeast and about 143 feet in the interior and about 104 feet outside the east side and about 88 feet wide in the interior. The walls are about 8 feet 5 feet In the south-west of the country, the ancient mosque was honored as UNESCO World Heritage Sites in 1983. The mosque has placed Bagerhat city among the three world-famous cities of Bangladesh.
+        \n\nHow to go:\n\n
+
+        From Saidabad in Dhaka every day, from 6am to 10am and from 7pm to 10pm, many vehicles leave – Meghna (0171717388553), Bonfool, tourist (01711131078), Falguni, Ara, Baleshwar, Hamim and Dola.
+
+         A part from this, the villages of Sohag (01718679302), Shakura (01711010450), Hanif and Eagle leave from Gabtali leave. Rent 300 to 400 taka It takes about 7 hours to travel.
+
+         Intercontinental train can go to Khulna on Sundarbans Express and then go to Bagerhat by bus. It takes about 40 minutes to go from Rupsa to Bagerhat.
+
+         Seven kilometers from the bus stand and sixty-domed mosque square in the west, 3 kilometers away from the mausoleum of Khanjahan Ali (RA). Rickshaw worth Tk 30
+       \n\nWhere will it be:\n\n
+
+        There are several hotels in Bagerhat Sadar. There are also government guesthouses. Stay here at the Momtaj Hotel on Rail Road. Although this hotel has fewer facilities, the quality of service is fair and cost is a bit more. Apart from this, there are more hotels to stay around this hotel. In addition to Khan Jahan Ali’s shrine, he can stay in the Main Highway in the “Hotel Abhi”. Rent 400 Taka Phone: 01833742623.
+
+        \n\nTicket Price:\n\n
+
+         The price of the tickets is twenty paise, but no child under the age of five is required for a ticket. For any foreign visitor, the ticket price is two hundred taka.
+         \n\nOpen Closure Schedule:\n\n
+
+          The fort is open from 10am to 6pm in the summer. The middle is closed from 1pm to 1.30pm for half an hour. And it is open from 9am to 5pm in the winter. In winter, it is closed from 1pm to 1.30pm. And for the Jumma prayer on Friday, it is closed from 12:30 to 3 in the morning. Sunday is open for general holidays and on Monday, 2:00.
+
+
+
+      </string>
+
+
+        <string name="lalonshamazar_text">
+       Description:\n\nLocation of Lalon Shah Mazar in Kushtia district, at Chauria in Churia, in the name of Kumarkhali upazila. The Baul Lalon Shah is buried in Chuaria. After his death, the disciples built the shrine of Lalon in the shrines or locals. There is a grave of a rows of disciples around his tomb in a huge dome. The mazar (Fakir Lalon Shahs Mazaar, Kushtia) is a place of pilgrimage to Bauls. There is a gate away from the shrine. The entrance to the shrine is to enter the shrine. Every year, on his death anniversary, hundreds of tourists from the side of the Baul emperor run side by side along with the saints and fans. Next to the shrine is the Lalon Museum. A lavender door, lavender sitting water, fans basin and many rare pictures are preserved in the museum. The museum entrance price is 2 taka If you get out of the tomb and see it, then you will see the shamefulness of Lalon.
+       \n\nHow to go:\n\nThe buses of SB, Shyamoli, Hanif, Sohag and Khalek Paribahan from Gabtali or Technical Convert directly from Dhaka, through the Bangabandhu Bridge, travel directly to Dhaka-Kushtia. Apart from this,  buses directly from Dhaka-Kumarkhali.
+
+          From Kamalapur Railway Station, you can go to Chitra Train from Sundarbans and cantonment stations. However, in the area of Porshadh railway station near Kushtia, the bus or autorickshaw has to come to the city.
+
+          Kushtia city can go to the rickshaw or autonomous Lalon Shah shrine.
+         \n\nWhere to stay:\n\nYou can find many quality hotels in the city. Among them, Padma, Hotel River View, Gold Star, Sanamun is one of the most.
+
+         \n\nWhere to eat:\n\n
+          There are numerous restaurants to eat. You can find 3 Chinese restaurants, including Jahangir Hotel, Shilpi Hotel, Shafi Hotel, Hotel Khawa-Dawa, Mauhan Restaurant.
+
+
+     </string>
+        <string name="kuakataseabech_text">
+        Kuakata  is a town known for its panoramic sea beach. It is in southeastern Bangladesh and is the number two tourist destination in the country. Kuakata beach is a sandy expanse 18 kilometres (11 mi) long and 3 kilometres (1.9 mi) wide. From the beach one can have an unobstructed view of both sunrise and sunset over the Bay of Bengal.
+        \n\nTransportation for Kuakata:\n\n The distance of Kuakata from Dhaka by road is 380 KM and from Barisal is 108 kilometers.Several buses have services now to direct communication from Dhaka.
+        \nFrom Dhaka to Kuakata by Bus:\n\nVisitors can travel to Kuakata directly from Dhaka by Druti Paribahon.Sakura Paribahon(01727545460),BRTC(via khulna) etc and it takes at least 12 hours to reach Kuakata.
+        \n\nFrom Dhaka to Kukata by Waterway:\n\nFrom Dhaka there are several luxury double decker availabla. They are MV Parabat(01711330642),MV Saikat(01712023100).
+        \n\nShopping at Kuakata:\n\nThere are no super market or shopping mall in Kuakata.There are mainly two small markets there for shopping.One is situated just before the beach with about 35 shops.Another is situated just beside the Rakhain Polly it is called "Rakhain Women market" with about shops.All the shops are very small in size and market next to the beach area is popular among the tourists.
+    </string>
+
+
+        <string name="guthiamosque_text">
+
+         Guthia mosque is a famous mosque in Barisal. It is also on of the most beautiful mosque in Bangladesh. Mr. S. Sharfuddin Ahmed Santustablish established this mosque in 16 Dec 2003. He spent 10 millions dollers build this Guthia masjid. Its designs are taken from Europe, Asia, and Middle Easts most famous mosque. In this masjid, there is lots of expensive marble stone on the wall. Which is bring from Egypt (Misr). Beside the mosque, there is a madrasa , joined by walkway. The masjid area is park-like with flower garden, shrubs, fruit tree, park-like etc. In the mosque area there are also several ponds and canals.
+        \n\nLocation:\n\n
+        This mosque situated at Guthia, Barisal, Bangladesh. It will take only few minutes to reach from Barisal city.
+        \n\nBeautifulness:\n\nThe mosque houses 20 domes, with three major lakes surrounding it so that they can reflect the gorgeous mosque from different angles. A number of beautiful calligraphies of the Ayatul Kursi can be found around the mosque and on the inner part of the domes. The inner wall of the mosque has the Surah ar-Rahman written on it. The inner part of the mosque has a maximum capacity of an astounding 1,400 people, while the outer part can house a gathering of about 5,000 people. On the other hand, several thousands of people can pray in the Eidgah field adjacent to the mosque at a time. The graveyard stands on the south-eastern part of the complex. Interestingly, the 58 metres-high minaret of the mosque is presumably the tallest in the country.
+
+
+    </string>
+        <string name="durgasagor_text">
+        Durga Sagar is actually a big pond that is situated at Babuganj in Barisal, beside the Barisal-Banaripara-Nesarabad road.
+
+      In 1780, the then King of ChndradwipPargana King Shiva Narayandigged a big dighi with an area of 2500 hectares at Madhabpasha to reduce water scarcity in the area. It was named after goddess Durga. There is an island-like high land of 60 decimals area in the centre of the dighi, which is the main attraction there.
+
+      The dighi is surrounded by trees of various types, which have enhanced its beauty. Dring winter, thousands of birds including migratory birds throng this dighi.
+        \n\nHow to go:\n\n You can go to Barisal by bus or launch. Madhabpasha is just 12 kilometres away from Barisal city. You may go there by legunas or Chakhar-bound buses.
+
+         There is the Zila Parishad Dakbanglow adjacent to the west ghat. If you wish to pass the moonlit night at the bank of the dighi, you may stay there. You may also stay at anyone from many hotels in Barisal city.
+    </string>
+
+
+        <string name="piarabazar_text">
+        Guava Market:\n\n The southern region of Bangladesh is famous for guavas, more popularly known in Bangladesh as ‘Bengals Apple. Especially in Jhalakathi Sadar Upazila and at Swarupkathi and Banaripara Upazila in Pirozpur, farmers heavily rely on guava farming. Such diversity of life is hardly to be found in other places of the country. Loss in guava farming in one season usually leads to extreme distress for the farmers throughout the year. The current year is one of those.
+
+        The eye-soothing guava orchards on canals over Jhalakathis Sugandha, Bishkhali, Gabkhan and Sandhya River are Southern regions main places of guava farming. Every day, thousands of tons of guavas are supplied all across the country. Boats are the main transportation for supplying. Farmers carry the guavas onto the boats from the river-adjacent orchards. There are hundreds of boats filled with guava and all the trades occur on boats.
+
+         The floating market appears as the centre of Barisals (aka The Venice of Bengal) beauty. Nobody knows when the idea of this floating market began, but its a hundred-year old tradition. Development and modernization are taking over the country but it’s surprising to see them not reaching to this river-oriented life yet. For more than 100 years, the local farmers have been experiencing the ups and downs of life along with the ebb and flow of the river. Many farmers and wholesalers gather here every day. Not only guava, there are other fruits sold in this market.
+
+       \n\nBoat Market:\n\n Boat makers at the weekly “Noukar Haat” (boat market) in Kuriana  under the Swarupkathi upazila of Pirojpur district are doing brisk business during this monsoon season. The two-kilometre-long marketplace is noted for the trade in different varieties of boats during the monsoon season. The market runs every Friday from May to November. “Panis” or “Pinis”, “Dingi” and “Naak Golui” are the types of boats available for sale, built by local craftsmen from the Muktahar, Chami, Boldia, Inderhaat, Boitha Kata, Dubi and Kathali villages.
+
+        \n\nHow to go:\n\n
+       After reaching at Barisal Rupatoli bus stand, take “Dhanshiri Paribahan” leaving for Khulna. Ask the bus supervisor to stop at Kirtipasha Mor in Jhalakathi. Bus fare would be 60 taka. From there, take shared Auto Rickshaw to reach Vimruli by paying 20-30 taka.
+
+
+
+    </string>
+        <string name="bangladesharicaltureuniversity_text">
+
+       Description:\n\nBangladesh Agricultural University  or BAU was established as the only university of its kind in Bangladesh in 1961. The scheme for BAU was finalised on 8 June 1961 and its ordinance was promulgated on 18 August 1961. It started functioning with the College of Animal Husbandry and Veterinary Science at Mymensingh as its nucleus. The university has six faculties and 43 departments covering all aspects of agricultural education and research.
+        BAU was the second highest budgeted public university in Bangladesh for the year 2013–2014. It is ranked number one university of Bangladesh according to the webomrtrix university ranking 2017. BAUs research in agriculture has made it well recognised across Asia.
+       \n\nLocation:\n\nThe campus, with an area of 4.85 square kilometres (1.87 sq mi), is in scenic rural surroundings on the western bank of the old Brahmaputra River, 3 kilometres (1.9 mi) south of the district town of Mymensingh and 120 kilometres (75 mi) north of Dhaka, the capital city of Bangladesh. The campus is made up of academic, administrative and residential buildings and experimental farms, gardens and other related facilities.
+
+        Two national research institutes, Bangladesh Institute of Nuclear Agriculture (BINA)[4] and Bangladesh Fisheries Research Institute (BFRI)[5] are housed in this campus.
+    </string>
+
+        <string name="botanicalgarden_text">
+        Location:\n\n
+
+
+      Three or four kilometres east of town, next to the Agriculture and Fisheries College, are the large and peaceful botanical gardens. Well laid out, although not particularly well maintained, they make a decent place to relax on a bench with a book. You can also get boats across the river from here. A rickshaw from the town centre costs around Tk 40.
+       \n\nHow to go:\n\nBy air:\n\n
+      There is no airport in Mymensingh. Dhaka airport is approximately 110 km (2.5 hours drive) from Mymensingh by bus.
+
+      \n\nBy bus:\n\n
+      There are several bus services from Dhaka to Mymensingh. Buses leave from the Mohakhali bus stand (10 km south of Dhaka Airport) in Dhaka to the Mashkanda bus stand in Mymensingh. You can get on any of the following buses from the Mohakhali bus stand in Dhaka, which will cost around Tk. 150 ($2):
+
+      Shoukhin
+      Nirapad
+      Deluxe
+      Ena
+      \n\nBy train:\n\n
+      There are several train services from Dhaka to Mymensingh. It takes almost 3 hours to reach Mymensingh from Dhaka, the capital of Bangladesh. You can get on from the Dhaka Airport or you could go to the main train station-Komlapur Rail Station.
+    </string>
+
+        <string name="meuseummymenshign_text">
+        Description:\n\n
+
+       Mymensingh Museum is located in Zamidar Madan Babu garden house at Amrita Babu Road in Mymensingh town. The museum is contributing as a major artifacts collection in the Mymensingh region. There are many old items including local architecture, statues, iron accessories, handicrafts, inscriptions and commercial goods of Mymensingh district exhibited in the museum. Most of the things have been collected from different house of Zamidars of Mymensingh area. A total of 214 objects have been preserved in three rooms of the museum. The museum was established in 1969 by the then Deputy Commissioner of Mymensingh. Initially Mymensingh municipality used to supervise it, but in 1989, the museum was brought under the Department of Bangladesh Archeology.
+     \nThe preserved objects include manuscripts and different types of coins. Most of the items have not been displayed due to lack of exhibition boxes. There is also a mummy of Peacock which was donated by Mymensingh Medical College. There are also stone vases, compasses, ancient clocks, ornaments, pottery, weaving machines, flower vases, wax horses, iron racks and sporting goods, carved sculptures collected from the house of Muktagacha zamidar house has been displayed here. There are also few natural history items including tiger head, two deer head, and a wild bull head can be found here. Some objects has been collected and displayed here from the Gauripur zamidar palace including elephant heads, sofa sets, Italian statues and tools used in hunting. Besides, there are many rural paintings in the museum.
+
+     Besides this museum, there are three more museums listed in Mymensingh. There are also twelve attractions listed in this district in other categories. You will find the exact location of Mymensingh Museum .
+
+
+    </string>
+
+        <string name="nuzrulmemorialcenter_text">
+
+
+      Tourism Desk:\n\n
+      The national poet of Bangladesh Kazi Nazrul Islam spent a part of his childhood at Kazir Shimla and Darirampur in Mymensingh when he was in class 7.
+      Nazrul stayed at both Namapara and Kazir Shimla, but he mostly remained at Namapara as his school was near from the place. The Nazrul memorabilia is symbolized by two memorial centers which are situated in both the village of Namapara and Kazir Shimla. Nazrul Memorabilia contains many voice records of Nazrul’s recitation of poetry and prose, a library of books authored by Nazrul and other books of literary critics on Nazrul. There are also some manuscripts of his work in Bengali, Urdu, and English.
+       Both the memorial centres are very well designed and maintained, and they capture and have preserved the essence of Nazrul. Just a few steps inside the memorabilia there is the living place of Kazi Nazrul Islam which is a tin shed house. This house is located inside the memorabilia of both centers. Often tourists skip by walking past the house without even noticing the tin shade house within which once lived one of the mightiest and greatest poets of Bangladesh. Near about 1 kilometer from the campus tourists will discover the green campus of “Kazi Nazrul University.” At the university campus, there are a few eating meals and snacks. Tourists can eat something light from here before starting their tour of the Nazrul Memorial Center
+       \n\nHow to go:\n\n
+      To reach the Nazrul Memorial Center, it is easier if tourists visit Mymensingh. Tourists can take buses which directly go to the Trishal Bus Stand from where tourists can take a rickshaw or auto rickshaw to visit the Memorial Center of the two villages. Tourists will have to say to the rickshaw puller or auto rickshaw driver that they want to visit the Nazrul Memorial Center. To reach to Mymensingh from Dhaka, there are various buses such as Shoukhin Paribahan, Ena Paribahan, SEPL Paribahan, etc. Maximum of the buses leave from Mymensingh from Moakhali Bus Stand from where tourists will find various other coaches as well which departs from Mymensingh . The price of tickets would range from 250 to 350 taka per person. There are several train services from Dhaka to Mymensingh. It takes almost 3 hours to reach Mymensingh from Dhaka, the capital of Bangladesh. You can get on from the Dhaka Airport, or you could go to the main train station-Komlapur Rail Station
+    </string>
+
+    </resources>
+
+

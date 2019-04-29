@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#2273ff"
+    tools:context=".RangpurActivity">
+
+
+    <Button
+        android:id="@+id/shopnopuriId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Shopnopuri"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/vinnojogotId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vinno Jogot"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/chinimosqueId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chini Mosque"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/tushbanderjamiderbariId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tushbander Jamider Bari"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/gaibandhapouroparkId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gaibandha pouro Park"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/shahimosqueId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Shahi Mosque"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+</LinearLayout>
+
+
+
